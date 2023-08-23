@@ -1,3 +1,0 @@
-참고 주소 : https://sujinnaljin.medium.com/ios-차근차근-시작하는-gcd-grand-dispatch-queue-1-397db16d0305
-
-GCD : 
