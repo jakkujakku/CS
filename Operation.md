@@ -598,3 +598,6 @@ main() 메서드의 동작이 끝나는 시점에 state를 finished로 변경해
 start() 메서드를 재정의할 때에는 super를 호출하면 안됩니다. 
 Operation의 상태를 변경하는 동작이 의도와 다르게 동작할 수 있기 때문입니다. 
 또한 start() 메서드를 재정의하면서 isCancelled 프로퍼티를 확인하는 작업도 놓치지 않도록 합시다.
+
+## 참고 
+1. 참고 자료 : https://yagom.net/courses/동시성-프로그래밍-concurrency-programming/lessons/operation/
