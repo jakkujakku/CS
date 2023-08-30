@@ -161,3 +161,6 @@ mutating func delete(node: Node<T>) -> Bool {
         return true
     }
 ```
+
+## 참고
+관련 주소 : https://jeonyeohun.tistory.com/320
